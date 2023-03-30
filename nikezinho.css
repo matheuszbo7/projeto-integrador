@@ -1,0 +1,10 @@
+element.style {
+}
+
+user agent stylesheet
+link {
+    display: none;
+}
+:root {
+    --swiper-theme-color: #007aff;
+}
